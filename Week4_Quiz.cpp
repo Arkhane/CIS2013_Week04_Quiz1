@@ -14,7 +14,7 @@ int main()
 			cout << "FOO" << endl;
 		}
 
-		if (i % 33==0)
+		else if (i % 33==0)
 		{
 			cout << "BAR" << endl;
 		}
